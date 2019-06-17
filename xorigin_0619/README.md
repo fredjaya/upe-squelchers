@@ -1,11 +1,11 @@
 # X-origin (June 19)
 Run on:
+```
 macOS Mojave
 version 10.14.5
 Processor 1.8 GHz Intel Core i5
 Memory 8 GB 1600 MHz DDR3
 
-```
 python --version
 Python 2.7.10
 
@@ -51,7 +51,7 @@ tar xvf SPLATCHE3-MacOs-64b.zip
 cd 1_transformMaps
 python asc2dynKF.py -a borealis_lgm_downscale.asc -c borealis_current_downscale.asc
 ```
-suitable cell number in LGM is  811
+suitable cell number in LGM is  811  
 number of unique classes is  58
 
 #### Inundata
@@ -59,7 +59,7 @@ number of unique classes is  58
 python asc2dynKF.py -a inundata_lgm_downscale.asc -c inundata_current_downscale.asc
 ```
 
-suitable cell number in LGM is  1419
+suitable cell number in LGM is  1419  
 number of unique classes is  81
 
 ## 2. Write gene seq file
@@ -73,8 +73,8 @@ Generated files moved to respective folders in 4.
 ## 3. Arlequin sumstats
 #### PGDSpider to prepare SNP data for arlequin (.arp) input
 Generate .str for:
-  * borealis `pgdspider/str2arp_borealis.R`
-  * inundata `pgdspider/str2arp_inundata.R`
+  * borealis `pgdspider/2_str2arp_borealis.R`
+  * inundata `pgdspider/2_str2arp_inundata.R`
 
 PGDSpider GUI (`PGDSpider_2.1.1.5/PGDSpider2.jar`):
   * Generate SPID file `pgdspider/upe_str2arp.SPID`
