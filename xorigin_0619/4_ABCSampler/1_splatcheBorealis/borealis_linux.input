@@ -1,0 +1,15 @@
+//Inputfile for the program ABCsampler
+//-----------------------------------------------------------------------
+samplerType standard
+//-----------------------------------------------------------------------
+estName borealis.est
+obsName 4_sumstats_borealis.obs
+outName borealis_output
+separateOutputFiles 0
+nbSims 25000
+writeHeader 1
+simulationProgram ../SPLATCHE3-MacOs-64b
+simInputName ./settings.txt#./dens_init.txt#./veg2K_cur.txt#./veg2K_lgm.txt
+simParam SIMINPUTNAME
+sumStatProgram /usr/bin/python
+sumStatParam calSumStat.py#Arrival_cell.col#settings-temp_GenSamples_1.arp#GenSamples.sam#

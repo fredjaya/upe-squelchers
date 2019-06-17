@@ -1,0 +1,3001 @@
+1000 //Num chromosomes
+#chromosome 1, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 2, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 3, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 4, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 5, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 6, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 7, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 8, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 9, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 10, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 11, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 12, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 13, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 14, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 15, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 16, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 17, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 18, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 19, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 20, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 21, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 22, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 23, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 24, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 25, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 26, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 27, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 28, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 29, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 30, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 31, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 32, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 33, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 34, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 35, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 36, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 37, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 38, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 39, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 40, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 41, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 42, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 43, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 44, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 45, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 46, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 47, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 48, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 49, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 50, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 51, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 52, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 53, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 54, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 55, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 56, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 57, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 58, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 59, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 60, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 61, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 62, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 63, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 64, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 65, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 66, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 67, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 68, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 69, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 70, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 71, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 72, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 73, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 74, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 75, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 76, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 77, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 78, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 79, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 80, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 81, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 82, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 83, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 84, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 85, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 86, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 87, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 88, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 89, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 90, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 91, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 92, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 93, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 94, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 95, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 96, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 97, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 98, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 99, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 100, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 101, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 102, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 103, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 104, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 105, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 106, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 107, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 108, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 109, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 110, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 111, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 112, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 113, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 114, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 115, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 116, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 117, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 118, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 119, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 120, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 121, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 122, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 123, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 124, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 125, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 126, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 127, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 128, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 129, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 130, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 131, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 132, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 133, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 134, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 135, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 136, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 137, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 138, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 139, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 140, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 141, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 142, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 143, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 144, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 145, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 146, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 147, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 148, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 149, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 150, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 151, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 152, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 153, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 154, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 155, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 156, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 157, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 158, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 159, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 160, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 161, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 162, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 163, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 164, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 165, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 166, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 167, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 168, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 169, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 170, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 171, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 172, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 173, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 174, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 175, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 176, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 177, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 178, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 179, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 180, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 181, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 182, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 183, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 184, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 185, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 186, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 187, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 188, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 189, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 190, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 191, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 192, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 193, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 194, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 195, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 196, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 197, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 198, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 199, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 200, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 201, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 202, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 203, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 204, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 205, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 206, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 207, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 208, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 209, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 210, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 211, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 212, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 213, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 214, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 215, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 216, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 217, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 218, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 219, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 220, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 221, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 222, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 223, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 224, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 225, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 226, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 227, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 228, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 229, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 230, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 231, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 232, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 233, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 234, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 235, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 236, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 237, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 238, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 239, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 240, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 241, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 242, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 243, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 244, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 245, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 246, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 247, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 248, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 249, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 250, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 251, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 252, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 253, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 254, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 255, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 256, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 257, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 258, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 259, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 260, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 261, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 262, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 263, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 264, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 265, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 266, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 267, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 268, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 269, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 270, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 271, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 272, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 273, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 274, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 275, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 276, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 277, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 278, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 279, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 280, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 281, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 282, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 283, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 284, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 285, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 286, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 287, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 288, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 289, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 290, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 291, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 292, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 293, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 294, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 295, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 296, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 297, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 298, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 299, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 300, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 301, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 302, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 303, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 304, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 305, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 306, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 307, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 308, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 309, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 310, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 311, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 312, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 313, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 314, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 315, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 316, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 317, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 318, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 319, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 320, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 321, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 322, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 323, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 324, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 325, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 326, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 327, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 328, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 329, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 330, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 331, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 332, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 333, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 334, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 335, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 336, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 337, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 338, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 339, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 340, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 341, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 342, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 343, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 344, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 345, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 346, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 347, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 348, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 349, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 350, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 351, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 352, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 353, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 354, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 355, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 356, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 357, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 358, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 359, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 360, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 361, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 362, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 363, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 364, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 365, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 366, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 367, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 368, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 369, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 370, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 371, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 372, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 373, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 374, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 375, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 376, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 377, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 378, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 379, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 380, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 381, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 382, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 383, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 384, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 385, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 386, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 387, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 388, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 389, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 390, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 391, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 392, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 393, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 394, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 395, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 396, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 397, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 398, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 399, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 400, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 401, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 402, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 403, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 404, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 405, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 406, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 407, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 408, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 409, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 410, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 411, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 412, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 413, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 414, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 415, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 416, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 417, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 418, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 419, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 420, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 421, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 422, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 423, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 424, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 425, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 426, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 427, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 428, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 429, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 430, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 431, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 432, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 433, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 434, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 435, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 436, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 437, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 438, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 439, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 440, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 441, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 442, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 443, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 444, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 445, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 446, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 447, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 448, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 449, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 450, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 451, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 452, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 453, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 454, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 455, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 456, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 457, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 458, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 459, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 460, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 461, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 462, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 463, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 464, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 465, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 466, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 467, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 468, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 469, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 470, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 471, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 472, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 473, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 474, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 475, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 476, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 477, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 478, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 479, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 480, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 481, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 482, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 483, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 484, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 485, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 486, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 487, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 488, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 489, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 490, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 491, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 492, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 493, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 494, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 495, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 496, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 497, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 498, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 499, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 500, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 501, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 502, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 503, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 504, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 505, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 506, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 507, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 508, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 509, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 510, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 511, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 512, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 513, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 514, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 515, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 516, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 517, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 518, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 519, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 520, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 521, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 522, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 523, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 524, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 525, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 526, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 527, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 528, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 529, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 530, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 531, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 532, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 533, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 534, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 535, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 536, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 537, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 538, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 539, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 540, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 541, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 542, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 543, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 544, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 545, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 546, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 547, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 548, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 549, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 550, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 551, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 552, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 553, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 554, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 555, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 556, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 557, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 558, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 559, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 560, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 561, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 562, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 563, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 564, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 565, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 566, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 567, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 568, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 569, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 570, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 571, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 572, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 573, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 574, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 575, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 576, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 577, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 578, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 579, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 580, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 581, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 582, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 583, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 584, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 585, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 586, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 587, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 588, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 589, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 590, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 591, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 592, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 593, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 594, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 595, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 596, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 597, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 598, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 599, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 600, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 601, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 602, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 603, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 604, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 605, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 606, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 607, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 608, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 609, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 610, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 611, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 612, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 613, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 614, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 615, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 616, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 617, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 618, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 619, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 620, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 621, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 622, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 623, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 624, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 625, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 626, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 627, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 628, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 629, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 630, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 631, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 632, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 633, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 634, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 635, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 636, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 637, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 638, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 639, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 640, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 641, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 642, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 643, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 644, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 645, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 646, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 647, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 648, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 649, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 650, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 651, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 652, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 653, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 654, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 655, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 656, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 657, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 658, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 659, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 660, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 661, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 662, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 663, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 664, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 665, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 666, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 667, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 668, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 669, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 670, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 671, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 672, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 673, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 674, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 675, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 676, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 677, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 678, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 679, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 680, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 681, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 682, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 683, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 684, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 685, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 686, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 687, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 688, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 689, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 690, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 691, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 692, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 693, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 694, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 695, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 696, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 697, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 698, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 699, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 700, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 701, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 702, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 703, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 704, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 705, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 706, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 707, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 708, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 709, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 710, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 711, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 712, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 713, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 714, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 715, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 716, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 717, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 718, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 719, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 720, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 721, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 722, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 723, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 724, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 725, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 726, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 727, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 728, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 729, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 730, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 731, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 732, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 733, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 734, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 735, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 736, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 737, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 738, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 739, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 740, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 741, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 742, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 743, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 744, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 745, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 746, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 747, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 748, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 749, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 750, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 751, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 752, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 753, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 754, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 755, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 756, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 757, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 758, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 759, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 760, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 761, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 762, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 763, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 764, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 765, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 766, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 767, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 768, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 769, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 770, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 771, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 772, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 773, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 774, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 775, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 776, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 777, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 778, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 779, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 780, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 781, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 782, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 783, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 784, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 785, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 786, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 787, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 788, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 789, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 790, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 791, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 792, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 793, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 794, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 795, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 796, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 797, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 798, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 799, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 800, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 801, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 802, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 803, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 804, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 805, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 806, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 807, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 808, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 809, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 810, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 811, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 812, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 813, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 814, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 815, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 816, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 817, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 818, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 819, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 820, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 821, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 822, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 823, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 824, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 825, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 826, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 827, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 828, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 829, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 830, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 831, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 832, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 833, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 834, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 835, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 836, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 837, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 838, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 839, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 840, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 841, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 842, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 843, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 844, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 845, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 846, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 847, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 848, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 849, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 850, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 851, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 852, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 853, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 854, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 855, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 856, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 857, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 858, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 859, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 860, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 861, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 862, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 863, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 864, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 865, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 866, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 867, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 868, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 869, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 870, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 871, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 872, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 873, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 874, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 875, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 876, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 877, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 878, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 879, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 880, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 881, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 882, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 883, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 884, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 885, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 886, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 887, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 888, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 889, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 890, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 891, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 892, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 893, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 894, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 895, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 896, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 897, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 898, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 899, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 900, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 901, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 902, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 903, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 904, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 905, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 906, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 907, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 908, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 909, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 910, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 911, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 912, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 913, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 914, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 915, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 916, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 917, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 918, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 919, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 920, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 921, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 922, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 923, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 924, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 925, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 926, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 927, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 928, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 929, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 930, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 931, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 932, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 933, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 934, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 935, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 936, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 937, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 938, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 939, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 940, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 941, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 942, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 943, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 944, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 945, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 946, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 947, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 948, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 949, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 950, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 951, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 952, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 953, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 954, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 955, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 956, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 957, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 958, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 959, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 960, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 961, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 962, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 963, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 964, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 965, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 966, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 967, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 968, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 969, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 970, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 971, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 972, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 973, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 974, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 975, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 976, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 977, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 978, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 979, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 980, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 981, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 982, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 983, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 984, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 985, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 986, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 987, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 988, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 989, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 990, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 991, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 992, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 993, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 994, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 995, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 996, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 997, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 998, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 999, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833
+#chromosome 1000, //per Block:data type, number of SNP, per generation recombination, Minimum frequency for the derived allele)
+1
+SNP    1  0  0.020833

@@ -2,3 +2,11 @@
 WinArl35/
 PGDSpider_2.1.1.5/
 arlsumstat_macosx/
+
+# R
+.R*
+
+# OSX
+.DS_Store
+*/.DS_Store
+xorigin_0619/3_arlsumstat/.DS_Store

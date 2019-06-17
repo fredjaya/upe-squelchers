@@ -13,6 +13,11 @@ java -version
 java version "1.8.0_152"
 Java(TM) SE Runtime Environment (build 1.8.0_152-b16)
 Java HotSpot(TM) 64-Bit Server VM (build 25.152-b16, mixed mode)
+
+cmake -version
+cmake version 3.14.1
+
+wine-4.0
 ```
 
 # Installation
@@ -28,6 +33,7 @@ tar xvf PGDSpider_2.1.1.5.zip
 ```
 
 #### Arlequin (windows GUI)
+* Potentially unnecessary
 ```
 curl http://cmpg.unibe.ch/software/arlequin35/win/WinArl35.zip -o WinArl35.zip
 tar xvf WinArl35.zip
@@ -44,6 +50,21 @@ tar xvf arlsumstat_macosx.zip
 curl http://www.splatche.com/download/SPLATCHE3-MacOs-64b.zip -o SPLATCHE3-MacOs-64b.zip
 tar xvf SPLATCHE3-MacOs-64b.zip
 ```
+
+#### ABCtoolbox
+```
+git clone https://github.com/sakeel/ABCtoolbox.git
+cd ABCtoolbox
+cmake -H. -Bbuild
+cmake --build ./build
+find ./build/source -type f -perm +111 -print
+```
+Note - compilation issue in `ABCestimator/newmat6.cpp`, `ABCsampler/newmat6.cpp` and `glm/newmat6.cpp`:
+```
+error: ordered comparison between pointer and zero ('int *' and 'int')
+  if (indx > 0) { delete [] indx; indx = 0; }
+```
+Fix: `(indx > (int *)0)`
 
 ## 1. Transform Maps
 #### Borealis
@@ -81,36 +102,39 @@ PGDSpider GUI (`PGDSpider_2.1.1.5/PGDSpider2.jar`):
   * Convert `borealis.str > borealis.arp`
   * Convert `inundata.str > inundata.arp`
 
+#### Arlequin to generate .obs file for ABCSampler(?) input
+Note: binary and all input files must be in the same directory to work. (Chronological numbering of files (ssdef.txt, arl_run.ars) n/a here)
+
 ```
 cd 3_arlsumstat
+# Arlequin GUI not run, example files used
 cp X-ORGIN/example/calSumStat/arl_run.ars .
+cp X-ORGIN/example/calSumStat/ssdefs.txt .
+./arlsumstatmac_64bit 3_borealis.arp 4_sumstats_borealis.obs 0 1
+./arlsumstatmac_64bit 3_inundata.arp 4_sumstats_inundata.obs 0 1
+rm randseed.txt
 ```
 
-## 4. splatche
-X-origin binary is compiled for linux:
+## 4. ABCSampler
+X-origin `ABCSampler` and `splatche2` binaries are compiled for linux:
 ```
-cp ~/GitHub/X-ORGIN/example/splatche2input/splatche2-01_lin_64 .
-./splatche2-01_lin_64
--bash: ./splatche2-01_lin_64: cannot execute binary file
-chmod 744 splatche2-01_lin_64
-SCIHDR2019001:4_splatcheBorealis 13444841$ ./splatche2-01_lin_64
--bash: ./splatche2-01_lin_64: cannot execute binary file
+file ABCsampler
+ABCsampler: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-, for GNU/Linux 2.6.8, with debug_info, not stripped
+
 file splatche2-01_lin_64
 splatche2-01_lin_64: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 2.6.15, BuildID[sha1]=82e4421b2c0c11289231c15dc00b03b92ac4c0fb, not stripped
 ```
 
 ### 4a. borealis
+#### Prep
 ```
-cd 4_splatcheBorealis/
-mv ../SPLATCHE3-MacOs-64b.zip .
-cp X-ORGIN/example/splatche2input/calSumStat/calSumStat.py .
-cp X-ORGIN/example/splatche2input/2-dens_init.txt .
+cd 4_ABCSampler/1_splatcheBorealis/
+cp ../../3_arlsumstat/4_sumstats_borealis.obs .
+cp X-ORGIN/example/splatche2input/toy_linux.input ./borealis_linux.input
+cp X-ORGIN/example/splatche2input/toy.est ./borealis.input
+cp X-ORGIN/example/splatche2input/calSumStat/calSumStat.py . #unchanged
+cp X-ORGIN/example/splatche2input/2-dens_init.txt . #unchanged
 cp X-ORGIN/example/splatche2input/1-settings.txt .
 ```
-  * Changed paths
-  * All param settings unchanged
-```
-cp X-ORGIN/example/toy.est .
-cp X-ORGIN/example/toy_linux.input .
-```
-  * Renaming paths
+
+#### ABCsampler

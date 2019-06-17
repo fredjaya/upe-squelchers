@@ -28,12 +28,21 @@
 #GENOTYPE ASSIGNMENT TEST: +32768
 #MANTEL TEST: +65536
 
-TaskNumber=17987
+TaskNumber=3587
 #----------------------------------------------------------------------------
 
 #----------------
 #GENERAL SETTINGS
 #----------------
+
+
+
+#XMLOutput controls if the results are output into an XML or an HTML file format
+
+XMLOutput=0
+#arlecore64 controls if the computations are performed in 64 bit by arlecore64.exe external windows
+
+arlecore64=0
 
 #The following 3 keys are for DNA ONLY
 #DeletionWeight controls the relative weight of deletions
@@ -46,7 +55,7 @@ TranversionWeight=1.000000
 
 #ComputeSumStatsWithinGroups controls if summary statistics and tests will be
 #computed for each group defined in the [Structure] section. If 1, then population
-#bsamples withing each group will be pooled into a single sample
+#samples within each group will be pooled into a single sample
 
 ComputeSumStatsWithinGroups=0
 
@@ -122,7 +131,7 @@ SignificanceLevelHW=2
 #-------------------------------------------
 
 #LinkageDisequilibriumTestType: (OBSOLETE SETTING)
-LinkageDisequilibriumTestType=0
+LinkageDisequilibriumTestType=1
 
 #MakeExactTestLD controls if test of LD needs to be performed
 #irrespective of the fact that gamwtic phase is knwn or not
@@ -179,6 +188,10 @@ ComputeStandardDiversityIndices=1
 
 ComputeAllAlleleFreqs=0
 
+#ComputeMissDataFreq controls if missing data allele frequencies are computed or ignored
+
+ComputeMissDataFreq=0
+
 #DistanceMethod controls the choice of the distance to be computed between haplotypes
 #DNA:      DIFF=0, JUKES_CANTOR=1, KIMURA_2P=2, P_DIST=3, TAJIMA_NEI=4, TAMURA=5, TAMURA_NEI=6
 #MICROSAT: COUNT_DIFF=0 (FST), MICRO_SQR_DIFF=1 (RST)
@@ -194,7 +207,7 @@ GammaAValue=0.000000
 #ComputeTheta controls if theta->4Nu parameters are to be computed
 #Bit values : +1: Theta(Hom), +2: Theta(S), +4: Theta(k), +8: Theta(pi)
 
-ComputeTheta=15
+ComputeTheta=0
 
 #PrintHaplDistMat controls if a distance matrix between haplotypes needs to be output in result file
 
@@ -208,6 +221,14 @@ PrintPopDistMat=0
 #matrix of pairwise distances between haplotypes needs to be output in the result file
 
 PrintMinSpannNetworkPop=0
+
+#Site Frequency Spectrum parameters
+#----------------------------------
+
+ComputePopSFS=0
+ComputeJointSFS=0
+ComputeMultiSFS=0
+NumBootSFS=0
 
 #----------------------------------
 #SETTINGS FOR MISMATCH DISTRIBUTION
@@ -433,7 +454,7 @@ ComputeConventionalFST=0
 IncludeIndividualLevel=1
 
 #ComputeDistanceMatrixAMOVA controls if a matrix of pairwise Euclidian distances needs to be computed
-#and used for AMOVA computaitons
+#and used for AMOVA computations
 
 ComputeDistanceMatrixAMOVA=1
 
@@ -479,7 +500,7 @@ ComputePairwiseFST=1
 
 #ComputeDeltaMuSqr controls if delta-mu square statistics is computed between all pairs of populations
 
-ComputeDeltaMuSqr=1
+ComputeDeltaMuSqr=0
 
 #FSTSignifLevel is the p-value under which pairwise distances are assumed to be significant
 #and reported as such in the result file
@@ -562,14 +583,13 @@ NumberOfDemesForFDist2=0
 
 NumberOfSimsForFDist2=0
 
-#UseSpecificAveFSTForFDist2 controls if a specific value of FST has to be used for the coalescent simulations
-#If set to zero, the FST value will be computed from the current genetic structure
+#UseSimFileForFDist2 is a flag to indicate if we can use some file with pre-simulated data
 
-UseSpecificAveFSTForFDist2=0
+UseSimFileForFDist2=0
 
-#SpecificFSTForFDist2 is the average target FST for the coalescent simulations under a finite island model
+#SimFileNameForFDist2 is the name of the file containing pre-simulated data
 
-SpecificFSTForFDist2=0.000000
+SimFileNameForFDist2=
 
 #TargetHetLowBound is the target LOW bound for simulated heterozagosity in the coalescent simulations under a finite island model
 #Target simulated heterozygostiy is dawn as uniform between low_bound and high_bound and theta value is taken from the relation Het=theta/(1+theta) 
@@ -580,6 +600,11 @@ TargetHetLowBound=0.000000
 #Target simulated heterozygostiy is dawn as uniform between low_bound and high_bound and theta value is taken from the relation Het=theta/(1+theta) 
 
 TargetHetHighBound=0.000000
+
+#MinDafFreq is the minimum frequency of the simulated derived allele. It is used to implement soem form of ascertainment bias
+#It is only relevant for diallelic markers, like DNA (SNP) and RFLP data. A value of zero implies no bias.
+
+MinDafFreq=0.000000
 
 #IterativeProcForFDist2 controls if we use an iterative procedure to detect loci under selection
 
