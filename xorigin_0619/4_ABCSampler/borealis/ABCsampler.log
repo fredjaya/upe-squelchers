@@ -1,7 +1,7 @@
 ABCsampler Logfile
 *******************
 Reading inputfile 'borealis_linux.input' ..... done!
-Random generator initialized with seed -535616
+Random generator initialized with seed -259580
 Performing a Standard Simulation
 
 Filenames
@@ -27,9 +27,6 @@ Using simulation program: '../SPLATCHE3-MacOs-64b'
 Initialization
 **********
 create first input file and initialize ....
-Simulation program returned an error! The following parameters were used:
-Parameter names:	K	MRATE	N_ANCESTRAL	oriLat	oriLon
-Values:	9174	0.00393463	9295	1	127
 The following file is read to get the summary statistics: 'summary_stats_temp.txt'
 Reading observed data file 'empiricalSS.obs' ... done, read 139 Data
 Using SumStat program: '/usr/bin/python'

@@ -1,6 +1,6 @@
 SPLATCHE 3.0 | Logfile
 **************************
-Random generator initialized with lidum=-449853
+Random generator initialized with lidum=-918183
 
 	WARNING: This model does not allow LDD and Dynamic migration !
 	Demographic model 3, with stochastic number of emigrants!
@@ -10,41 +10,5 @@ Num. of instanciated cells: 811
 
 Simulating demography, iteration no. 1... 
 	The number of population source is 1
-	ID: ori, Initial density: 9295, Lat: 1, Long: 127, Initial size: 9295, Long: 127, No resize before the expansion: 0, No bottleneck: 0, Only one source, no migration before the expansion.
+	ID: ori, Initial density: 9704, Lat: -17.8442, Long: 132, Initial size: 9704, Long: 132, No resize before the expansion: 0, No bottleneck: 0, Only one source, no migration before the expansion.
 	Input file has been sucessfully read!
- ERROR: {ImportExportUtils::readGeoPopDensity(...)} [the population 'ori' is out of World coordinates!]
-	Recomputing K in generation 250
-... Done! (Duration of the SimulateWorld function: 0 sec.)
-
-Printing demographic report... 
-	Date of entire colonization, layer 0 : 0
-	Date of edge colonization, layer 0 : 32766
-	Mean number of migrants, layer 0 : 0
-... Done!
-
-Simulating genetics, iteration no. 1... 
-Starting Coalescent simulation
- WARNING:  [the population '1' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '2' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '3' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '4' has not been colonised or it's density (0) is smaller than the sample size (4)!]
- WARNING:  [the population '5' has not been colonised or it's density (0) is smaller than the sample size (6)!]
- WARNING:  [the population '6' has not been colonised or it's density (0) is smaller than the sample size (4)!]
- WARNING:  [the population '7' has not been colonised or it's density (0) is smaller than the sample size (10)!]
- WARNING:  [the population '8' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '9' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '10' has not been colonised or it's density (0) is smaller than the sample size (4)!]
- WARNING:  [the population '11' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '12' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '13' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '14' has not been colonised or it's density (0) is smaller than the sample size (2)!]
- WARNING:  [the population '15' has not been colonised or it's density (0) is smaller than the sample size (2)!]
-	Number of linkage blocks to simulate : 1
-	Number of partially linked SNP, recombination and mutation rates: 1 0 0
-TDemeCollection::createlineages() : Tree is empty 
-ERROR:{TDemeCollection::buildTree}:[Not enough lineages to perform coalescence!]
-... Done! (Duration of SimulateGeneticData function : 0 sec.)
-
- ERROR: {TDemeCollection::ReadAndWriteArrivalCell()} [the cell '7' is out of World coordinates!]
- ERROR: {TDemeCollection::ReadAndWriteArrivalCell()} [the cell '7' is out of World coordinates!]
-End of Program!!
