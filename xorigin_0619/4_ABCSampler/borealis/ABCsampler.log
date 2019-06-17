@@ -1,7 +1,7 @@
 ABCsampler Logfile
 *******************
 Reading inputfile 'borealis_linux.input' ..... done!
-Random generator initialized with seed -941109
+Random generator initialized with seed -535616
 Performing a Standard Simulation
 
 Filenames
@@ -29,9 +29,9 @@ Initialization
 create first input file and initialize ....
 Simulation program returned an error! The following parameters were used:
 Parameter names:	K	MRATE	N_ANCESTRAL	oriLat	oriLon
-Values:	9249	0.00368614	9013	9	17
+Values:	9174	0.00393463	9295	1	127
 The following file is read to get the summary statistics: 'summary_stats_temp.txt'
-Reading observed data file '4_sumstats_borealis.obs' ... done, read 139 Data
+Reading observed data file 'empiricalSS.obs' ... done, read 139 Data
 Using SumStat program: '/usr/bin/python'
 
 ERROR: The file containing the computed summary statistics 'summary_stats_temp.txt' could not be opened!

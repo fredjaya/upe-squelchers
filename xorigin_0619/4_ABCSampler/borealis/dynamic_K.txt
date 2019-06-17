@@ -1,0 +1,3 @@
+2
+1	./veg2K_lgm-temp.txt past
+250	./veg2K_cur-temp.txt current

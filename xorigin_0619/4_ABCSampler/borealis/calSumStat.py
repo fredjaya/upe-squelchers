@@ -63,18 +63,12 @@ def runPsi():
 	p = sp.Popen(cmd, shell=True)
 	p.communicate()
 
-#wkDir=os.getcwd()
-#splatcheRunningFolder = sys.argv[1]
-#arrivalCol = wkDir+ "/" + splatcheRunningFolder + "/" + sys.argv[2]
-#arpFile = wkDir+ "/" + splatcheRunningFolder + "/GeneticsOutput/" + sys.argv[3]
-#map = wkDir+ "/" + splatcheRunningFolder + "/" + sys.argv[4]
-#calSSFolder = sys.argv[5]
-
-# Fred Jaya amendment - analysis is run in the same folder
-wkDir = os.getcwd()
-arrivalCol = wkDir + "/" + sys.argv[1]
-arpFile = wkDir + "/" + sys.argv[2]
-map = wkDir + "/" + sys.argv[3]
+wkDir=os.getcwd()
+splatcheRunningFolder = sys.argv[1]
+arrivalCol = wkDir+ "/" + splatcheRunningFolder + "/" + sys.argv[2]
+arpFile = wkDir+ "/" + splatcheRunningFolder + "/GeneticsOutput/" + sys.argv[3]
+map = wkDir+ "/" + splatcheRunningFolder + "/" + sys.argv[4]
+calSSFolder = sys.argv[5]
 
 mapInfo = np.genfromtxt(map,dtype='float',skip_header = 1,usecols = (3,4))
 arrivalTime = [int(x.split(" : ")[1]) for x in file(arrivalCol).readlines()[1:]]

@@ -1,0 +1,42 @@
+#Arlequin input file written by the simulation program SPLATCHE ver 3.0
+
+#Simulation parameters:
+#======================
+
+#Deme sizes
+
+#Sample sizes (in number of genes)
+
+#Number of chromosome        : 1000
+
+
+#Chromosome no 1
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.020833
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+[Profile]
+	Title="A series of simulated samples"
+	NbSamples=0
+	GenotypicData=1
+	GameticPhase=0
+	RecessiveData=0
+	DataType=RFLP
+	LocusSeparator=NONE
+	MissingData='?'
+
+[Data]
+	[[Samples]]
+
+
+[[Structure]]
+
+	StructureName="Simulated data"
+	NbGroups=1
+	Group={
+	}

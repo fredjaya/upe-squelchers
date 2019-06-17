@@ -129,12 +129,14 @@ splatche2-01_lin_64: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), s
 #### Prep
 ```
 cd 4_ABCSampler/1_splatcheBorealis/
-cp ../../3_arlsumstat/4_sumstats_borealis.obs .
+cp ../../3_arlsumstat/4_sumstats_borealis.obs ./empiricalSS.obs # calsumstat.py hardcoded
 cp X-ORGIN/example/splatche2input/toy_linux.input ./borealis_linux.input
 cp X-ORGIN/example/splatche2input/toy.est ./borealis.input
 cp X-ORGIN/example/splatche2input/calSumStat/calSumStat.py . #unchanged
 cp X-ORGIN/example/splatche2input/2-dens_init.txt . #unchanged
+cp X-ORGIN/example/splatche2input/4-dynamic_K.txt . #unchanged
 cp X-ORGIN/example/splatche2input/1-settings.txt .
 ```
+ Change est for latlong boundaries
 
 #### ABCsampler
