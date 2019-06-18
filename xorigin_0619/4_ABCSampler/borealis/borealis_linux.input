@@ -6,7 +6,8 @@ estName borealis.est
 obsName empiricalSS.obs
 outName borealis_output
 separateOutputFiles 0
-nbSims 25000
+nbSims 100
+//nbSims 25000
 writeHeader 1
 simulationProgram ../SPLATCHE3-MacOs-64b
 simInputName ./settings.txt#./dens_init.txt#./veg2K_cur.txt#./veg2K_lgm.txt

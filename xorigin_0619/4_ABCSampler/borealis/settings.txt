@@ -69,7 +69,7 @@ ArrivalCellFile=./Arrival_cell.col
 #Real time (in years BP) for the start of the simulation. It must be negative!
 #This parameter is linked to the graphical display of the real time in any simulation,
 #but is also linked to the Vostok time series in a dynamic simulation (MANDATORY)
-RealBPTime=0
+RealBPTime=-21000
 
 
 ##################################################################

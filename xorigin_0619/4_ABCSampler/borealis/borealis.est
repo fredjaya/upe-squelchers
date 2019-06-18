@@ -7,8 +7,8 @@
 0 MRATE unif 0.001 0.01
 1 N_ANCESTRAL unif 1000	10000
 1 K unif 1000 10000
-0 oriLat	unif	-23 -10
-1 oriLon	unif	119	136
+0 oriLat	unif	-22.9501 -10.4499
+0 oriLon	unif	119.7084	135.1249
 
 
 [RULES]

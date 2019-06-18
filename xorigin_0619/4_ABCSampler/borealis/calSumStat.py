@@ -78,7 +78,7 @@ arrivalTime = [int(x.split(" : ")[1]) for x in file(arrivalCol).readlines()[1:]]
 os.chdir(calSSFolder)
 
 
-out = open("../summary_stats_temp.txt","w")
+out = open("./summary_stats_temp.txt","w")
 
 if sum(n<0 for n in arrivalTime)>0:
 	##write sumstat with NAs

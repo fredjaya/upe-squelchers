@@ -21,7 +21,7 @@ GenerationTime=1
 #Growth rate used in the logistic function (MANDATORY)
 GrowthRate=0.5
 #Migration rate for neighboring deme migration (MANDATORY)
-MigrationRate= 0.00504505
+MigrationRate= 0.0071833
 #If this parameter is set to 0, then if the initial population size (N) is
 #greater than the carrying capacity (K) of the source population, the remaining
 #N-K individuals are spread around the neighboring demes (without ever
@@ -36,7 +36,7 @@ AllowSourcePopulationOverflow=0
 #and the timing at which all remainaing lineages are brought into one small deme (NOT MANDATORY)
 TauValue=0
 #Ancestral population size. Size of the ancestral population at tau (NOT MANDATORY)
-AncestralSize= 9704
+AncestralSize= 9179
 #Text file (*.col) where are found the deme coordinates for which arrival times are needed (MANDATORY)
 ArrivalCellFile=./Arrival_cell.col
 ##################################################################
@@ -50,7 +50,7 @@ ArrivalCellFile=./Arrival_cell.col
 #Real time (in years BP) for the start of the simulation. It must be negative!
 #This parameter is linked to the graphical display of the real time in any simulation,
 #but is also linked to the Vostok time series in a dynamic simulation (MANDATORY)
-RealBPTime=0
+RealBPTime=-21000
 ##################################################################
 #Parameters linked to genetic simulations
 ##################################################################
